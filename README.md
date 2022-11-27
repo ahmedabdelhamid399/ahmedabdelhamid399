@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Abdelhamid
+- 👀 I’m interested in Android, Java, and Kotlin.
+- 🌱 I’m currently learning and develope my knewledge.
+- 💞️ I’m looking to collaborate on any android project.
+- 📫 How to reach me https://www.linkedin.com/in/ahmed-aabdelhamid/ .
