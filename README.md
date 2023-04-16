@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ahmed Abdelhamid
+- 🌱 ITI Trainee
 - 👀 I’m interested in Android, Java, and Kotlin.
 - 🌱 I’m currently learning and develope my knewledge.
 - 💞️ I’m looking to collaborate on any android project.
