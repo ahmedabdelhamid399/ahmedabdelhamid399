@@ -1,4 +1,6 @@
-   # Hi, I'm Ahmed Abdelhamid 👋
+  <div align="center">
+  <h1>Hi, I'm Ahmed Abdelhamid 👋</h1>
+</div>
 
 🌱 I'm an ITI Trainee interested in Android, Java, and Kotlin.
 
