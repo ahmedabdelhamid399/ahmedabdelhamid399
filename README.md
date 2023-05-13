@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Abdelhamid 👋
+                                                # Hi, I'm Ahmed Abdelhamid 👋
 
 🌱 I'm an ITI Trainee interested in Android, Java, and Kotlin.
 
@@ -8,4 +8,6 @@
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
