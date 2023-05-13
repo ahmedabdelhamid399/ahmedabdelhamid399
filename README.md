@@ -16,9 +16,9 @@
    
    ## Connect with me
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/ahmed-aabdelhamid/)
-[<img align="left" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/[your-facebook-profile/)](https://www.facebook.com/Ahmdaabdelhamid)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/[your-instagram-profile](https://www.instagram.com/ahmdaabdelhamid/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/ahmed-aabdelhamid/)
+[<img align="left" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Ahmdaabdelhamid)
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/ahmdaabdelhamid/)
 
 # Stats
 
