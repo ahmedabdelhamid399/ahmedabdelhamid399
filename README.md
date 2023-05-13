@@ -26,3 +26,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelhamid399&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelhamid399&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
