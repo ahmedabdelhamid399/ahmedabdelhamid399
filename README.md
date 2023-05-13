@@ -18,9 +18,9 @@
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/ahmed-aabdelhamid/)
 [<img align="left" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Ahmdaabdelhamid)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/ahmdaabdelhamid/)
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/ahmdaabdelhamid/)<br>
 
- <h2>  Stats </h2> 
+ ## Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
