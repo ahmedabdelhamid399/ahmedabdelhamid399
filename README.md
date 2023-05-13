@@ -20,7 +20,7 @@
 [<img align="left" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Ahmdaabdelhamid)
 [<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/ahmdaabdelhamid/)
 
-## Stats
+ <h2>  Stats </h2> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
