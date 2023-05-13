@@ -8,4 +8,4 @@
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
