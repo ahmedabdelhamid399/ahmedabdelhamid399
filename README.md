@@ -1,4 +1,4 @@
-                                                # Hi, I'm Ahmed Abdelhamid 👋
+   # Hi, I'm Ahmed Abdelhamid 👋
 
 🌱 I'm an ITI Trainee interested in Android, Java, and Kotlin.
 
@@ -10,4 +10,4 @@
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
