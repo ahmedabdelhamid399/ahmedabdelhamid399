@@ -2,6 +2,8 @@
   <h1>Hi, I'm Ahmed Abdelhamid 👋</h1>
 </div>
 
+💻 Android Developer 
+
 🌱 I'm an ITI Trainee interested in Android, Java, and Kotlin.
 
 🌱 I'm currently learning and developing my knowledge.
