@@ -7,3 +7,5 @@
 💞️ I'm looking to collaborate on any Android project.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399)](https://github.com/anuraghazra/github-readme-stats)
