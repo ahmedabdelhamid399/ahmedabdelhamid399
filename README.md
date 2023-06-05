@@ -2,7 +2,8 @@
   <h1>Hi, I'm Ahmed Abdelhamid 👋</h1>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/ahmedabdelhamid399)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=ahmedabdelhamid399)
 
 💻 Android Developer 
 
