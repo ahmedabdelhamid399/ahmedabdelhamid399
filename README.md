@@ -13,7 +13,7 @@
 
 💞️ I'm looking to collaborate on any Android project.
 
-## 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/).
+## 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/)
 
 ## 📄 Check Out My [CV](https://drive.google.com/file/d/1rEKzEtiXPmgKHlC_9WcUJuGLUlDIjsLf/view?usp=sharing)
    
