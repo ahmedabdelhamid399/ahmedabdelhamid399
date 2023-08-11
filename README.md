@@ -15,7 +15,7 @@
 
 ## 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/)
 
-## 📄 Check Out My [CV](https://drive.google.com/file/d/1rEKzEtiXPmgKHlC_9WcUJuGLUlDIjsLf/view?usp=sharing)
+## 📄 Check Out My [CV](https://drive.google.com/file/d/1Kc069Efp5q5BDQF1Ab5tltRcM7KqQFeF/view?usp=drive_link)
    
   ## Connect with me
 
