@@ -7,7 +7,7 @@
 
 💻 Android Developer 
 
-🌱 I'm an ITI Trainee interested in Android, Java, and Kotlin.
+🌱 I'm an ITI Graduate interested in Android, Java, and Kotlin.
 
 🌱 I'm currently learning and developing my knowledge.
 
