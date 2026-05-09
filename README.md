@@ -1,50 +1,142 @@
-  <div align="center">
-  <h1>Hi, I'm Ahmed Abdelhamid 👋</h1>
+<div align="center">
+
+# Ahmed Abdelhamid
+### Automation Engineer · Software Developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmedabdelhamid399&color=0e75b6&style=flat)](https://github.com/ahmedabdelhamid399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-aabdelhamid/)
+[![Location](https://img.shields.io/badge/Location-Egypt-success?style=flat&logo=google-maps)](https://maps.google.com/?q=Egypt)
+
 </div>
 
+---
 
-  ![Profile views](https://komarev.com/ghpvc/?username=ahmedabdelhamid399)
+## 👋 About Me
 
-💻 Android Developer 
+I'm a **Software Developer and Automation Engineer** with a passion for building intelligent systems that save time and eliminate manual work.
 
-🌱 I'm an ITI Graduate interested in Android, Java, and Kotlin.
+I specialize in:
+- 🤖 **AI-powered workflow automation** using n8n, APIs, and LLMs
+- 🌐 **Network engineering** studying CCNA/CCNP
+- ⚙️ **DevOps tools** including Docker, Linux, and Nginx
 
-🌱 I'm currently learning and developing my knowledge.
+Currently focused on building **freelance automation solutions** for businesses on Upwork and Fiverr.
 
-💞️ I'm looking to collaborate on any Android project.
+---
 
-## 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aabdelhamid/)
+## 🚀 What I Do
 
-## 📄 Check Out My [CV](https://drive.google.com/file/d/1Kc069Efp5q5BDQF1Ab5tltRcM7KqQFeF/view?usp=drive_link)
-   
-  ## Connect with me
+```
+🔄 Workflow Automation    →  n8n · APIs · Webhooks · AI Integration
+🌐 Network Engineering    →  CCNA · TCP/IP · Network Design
+🤖 AI Integration         →  Groq · OpenAI · LLMs · Prompt Engineering
+```
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/ahmed-aabdelhamid/)
-[<img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://www.facebook.com/Ahmdaabdelhamid)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/ahmdaabdelhamid/)<br>
+---
 
- ## Stats 
+## 🛠️ Tech Stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelhamid399&" alt="ahmedabdelhamid399" /></p>
-
-## Languages and Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelhamid399&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Tech Stack:
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="49" width="49" alt="java logo" />
-<img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/98209d18-57e3-4a62-9895-68993b5b6ba7" height="36" width="36" alt="kotlin logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" width="36" alt="android logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" width="36" alt="dart" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" width="36" alt="flutter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="39" width="39" alt="firebase logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" width="39" alt="git logo" />
-<img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/db83f659-23b4-4154-a211-0a6fd2b1316e" height="39" width="39" alt="postman logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="39" width="39" alt="gradle logo" />
+### Automation & AI
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### Support:
-<p><a href="https://bmc.link/AhmedAelhamid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AhmedAbdelhamid" /></a><a href="https://ko-fi.com/ahmedabdelhamid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AhmedAbdelhamid" /></a></p><br><br>
+### DevOps & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Networking
+<p>
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Design-00B4AB?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 AI Support Ticket Agent
+> Intelligent automation workflow that monitors Airtable for new support tickets, summarizes them using Groq AI (Llama 3), and sends professional HTML email reports automatically.
+
+**Tech:** n8n · Groq (Llama 3.3-70b) · Airtable · Gmail API
+
+**Key Features:**
+- ✅ Processes multiple tickets automatically every minute
+- ✅ AI-generated priority detection and professional summaries
+- ✅ Lock mechanism prevents duplicate processing
+- ✅ Full audit trail logged back to Airtable
+- ✅ Professional HTML email template
+- ✅ Complete error handling and logging
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ahmedabdelhamid399/Ai_Support_Ticket_Agent)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelhamid399&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ahmedabdelhamid399)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelhamid399&theme=tokyonight&hide_border=true)](https://github.com/ahmedabdelhamid399)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelhamid399&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ahmedabdelhamid399)
+
+</div>
+
+---
+
+## 💼 Freelance Services
+
+I offer automation services on Upwork and Fiverr:
+
+| Service | Tools |
+|---|---|
+| 🔄 Workflow Automation | n8n · Zapier · Make |
+| 🤖 AI Agent Development | Groq · OpenAI · LLMs |
+| 📊 Data Pipeline Automation | Airtable · Google Sheets · APIs |
+| 📧 Email Automation | Gmail · SMTP · HTML Templates |
+| 🐳 Server & Docker Setup | VPS · Ubuntu · Nginx · SSL |
+
+---
+
+## 📫 Connect With Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Abdelhamid-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-aabdelhamid/)
+[![Facebook](https://img.shields.io/badge/Facebook-Ahmed_Abdelhamid-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/Ahmdaabdelhamid)
+[![Instagram](https://img.shields.io/badge/Instagram-@ahmdaabdelhamid-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahmdaabdelhamid/)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<p>
+<a href="https://bmc.link/AhmedAelhamid">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+<a href="https://ko-fi.com/ahmedabdelhamid">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+*"Building intelligent automation systems that work 24/7 so you don't have to."*
+
+</div>
