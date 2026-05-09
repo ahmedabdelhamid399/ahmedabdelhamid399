@@ -5,7 +5,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmedabdelhamid399&color=0e75b6&style=flat)](https://github.com/ahmedabdelhamid399)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-aabdelhamid/)
-[![Location](https://img.shields.io/badge/Location-Egypt-success?style=flat&logo=google-maps)](https://maps.google.com/?q=Egypt)
 
 </div>
 
